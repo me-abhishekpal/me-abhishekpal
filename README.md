@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek
-- 👀 I’m interested in Gadgets and Mobile devices
+- 👀 I’m mad about Gadgets and Mobile devices
 - 🌱 I’m currently learning "Fresh"
 - 💞️ I’m not looking to collaborate on ...
 - 📫 How to reach me ...
