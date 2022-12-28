@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m mad about Gadgets and Mobile devices
 - 🌱 I’m currently learning "Fresh"
-- 💞️ I’m not looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 me-abhishekpal/me-abhishekpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
