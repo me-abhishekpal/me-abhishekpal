@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek
-- 👀 I’m mad about Gadgets and Mobile devices
+- 👀 Tech Evangelist
 - 🌱 I’m currently learning "Fresh"
 
 <!---
