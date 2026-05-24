@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 Tech Evangelist
-- 🌱 I’m currently learning "Fresh"
+- 🌱 I’m currently learning "Empathy"
 
 <!---
 me-abhishekpal/me-abhishekpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
